@@ -27,9 +27,15 @@ public class AvatarListEditor
     private void DrawElement(Rect rect, int index, bool isActive, bool isFocused)
     {
         var element = list.serializedProperty.GetArrayElementAtIndex(index);
+        SerializedProperty prefabProperty = element.FindPropertyRelative("Prefab");
         EditorGUI.PropertyField(
             new Rect(rect.x, rect.y, rect.width, EditorGUIUtility.singleLineHeight),
-            element.FindPropertyRelative("Prefab"), GUIContent.none);
+            prefabProperty, GUIContent.none);
+
+        SerializedProperty pathProperty = element.FindPropertyRelative("path");
+        if(prefabProperty.objectReferenceValue != null)
+            pathProperty.stringValue = AssetDatabase.GetAssetPath(prefabProperty.objectReferenceValue);
+
     }
     public void UpdateHeight()
     {

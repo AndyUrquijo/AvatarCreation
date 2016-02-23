@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System;
+using UnityEditor;
 
 public class AvatarPool : MonoBehaviour 
 {
@@ -24,6 +25,7 @@ public class AvatarPool : MonoBehaviour
     public class Avatar
     {
         public GameObject Prefab;
+        public string path;
     }
 
     public RuntimeAnimatorController controller;
@@ -36,8 +38,9 @@ public class AvatarPool : MonoBehaviour
     int avatarindex = 0;
 
     public enum GENDER { Male, Female };
-    public enum ROLE { Teacher, Student };
     GENDER currentGender = GENDER.Male;
+
+    public enum ROLE { Teacher, Student };
     ROLE currentRole = ROLE.Teacher;
 
     public UnityEngine.UI.Text genderText;
@@ -45,13 +48,12 @@ public class AvatarPool : MonoBehaviour
     public UnityEngine.UI.Text raceText;
 
 
-
-
-
-
     void Start()
     {
         UpdateRaceList();
+
+        LoadAvatar();
+
 
         if (currentRace == null && currentRaceList.Count > 0)
         {
@@ -99,6 +101,7 @@ public class AvatarPool : MonoBehaviour
             else
                 currentRaceList = StudentFemales;
         }
+
         genderText.text = currentGender.ToString();
         roleText.text = currentRole.ToString();
 
@@ -114,7 +117,6 @@ public class AvatarPool : MonoBehaviour
 
     public void NextRace()
     {
-        Debug.Log("raceIndex " + raceIndex);
         if (currentRaceList.Count == 0)
             return;
 
@@ -128,7 +130,6 @@ public class AvatarPool : MonoBehaviour
 
     public void NextAvatar()
     {
-        Debug.Log("avatarindex " + avatarindex);
         if (currentRace == null || currentRace.avatars.Count == 0)
             return;
         avatarindex++;
@@ -174,24 +175,29 @@ public class AvatarPool : MonoBehaviour
         PlayerPrefs.SetInt("currentGender", (int)currentGender);
         PlayerPrefs.SetInt("raceIndex", raceIndex);
         PlayerPrefs.SetInt("avatarindex", avatarindex);
-        //PlayerPrefs.set(currentRace.avatars[avatarindex].Prefab.)
+
+        PlayerPrefs.SetString("AvatarPath", currentRace.avatars[avatarindex].path);
+
         PlayerPrefs.Save();
     }
 
     public void LoadAvatar()
     {
-        int roleInt = PlayerPrefs.GetInt("currentRole", -1);
-        if (roleInt == -1)
+        if (!PlayerPrefs.HasKey("currentRole"))
             return;
+
+        int roleInt = PlayerPrefs.GetInt("currentRole");
         currentRole = (ROLE)roleInt;
-        int genderInt = PlayerPrefs.GetInt("currentGender", -1);
+        int genderInt = PlayerPrefs.GetInt("currentGender");
         currentGender = (GENDER)genderInt;
 
         UpdateRaceList();
-
         raceIndex = PlayerPrefs.GetInt("raceIndex");
+        currentRace = currentRaceList[raceIndex];
+
         avatarindex = PlayerPrefs.GetInt("avatarindex");
 
         UpdateModel();
+
     }
 }
