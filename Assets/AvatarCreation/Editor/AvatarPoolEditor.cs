@@ -7,11 +7,17 @@ using System.Collections.Generic;
 [CustomEditor(typeof(AvatarPool))]
 public class AvatarPoolEditor : Editor
 {
-    RaceListEditor raceListEditor;
+    RaceListEditor TeacherFemalesEditor;
+    RaceListEditor TeacherMalesEditor;
+    RaceListEditor StudentFemalesEditor;
+    RaceListEditor StudentMalesEditor;
 
     private void OnEnable()
     {
-        raceListEditor = new RaceListEditor(serializedObject);
+        TeacherFemalesEditor    = new RaceListEditor(serializedObject, "TeacherFemales");
+        TeacherMalesEditor      = new RaceListEditor(serializedObject, "TeacherMales");
+        StudentFemalesEditor    = new RaceListEditor(serializedObject, "StudentFemales");
+        StudentMalesEditor      = new RaceListEditor(serializedObject, "StudentMales");
     }
 
     Rect createRaceRect;
@@ -19,18 +25,14 @@ public class AvatarPoolEditor : Editor
     {
         DrawDefaultInspector();
 
-
         serializedObject.Update();
-        raceListEditor.DrawGUI();
+
+        TeacherFemalesEditor.DrawGUI();
+        TeacherMalesEditor.DrawGUI();
+        StudentFemalesEditor.DrawGUI();
+        StudentMalesEditor.DrawGUI();
 
         serializedObject.ApplyModifiedProperties();
-        if (false || GUILayout.Button("Clear"))
-        {
-            raceListEditor.avatarListEditors.Clear();
-            AvatarPool pool = (AvatarPool)target;
-            pool.races.Clear();
-        }
-        if (Event.current.type == EventType.Repaint) createRaceRect = GUILayoutUtility.GetLastRect();
     }
 
 }

@@ -6,14 +6,17 @@ using System.Collections.Generic;
 
 public class RaceListEditor  
 {
-    public ReorderableList list;
-    public List<AvatarListEditor> avatarListEditors = new List<AvatarListEditor>();
+    ReorderableList list;
+    List<AvatarListEditor> avatarListEditors = new List<AvatarListEditor>();
+    string categoryName;
 
-    private bool showList = true;
+    bool showList = true;
 
-    public RaceListEditor(SerializedObject serializedObject)
+    public RaceListEditor(SerializedObject serializedObject, string categoryName)
     {
-        SerializedProperty racesProperty = serializedObject.FindProperty("races");
+        this.categoryName = categoryName;
+
+        SerializedProperty racesProperty = serializedObject.FindProperty(categoryName);
         list = new ReorderableList(serializedObject, racesProperty,
         true, false, true, true);
         list.headerHeight = 0;
@@ -53,6 +56,7 @@ public class RaceListEditor
         _list.index = index;
         SerializedProperty raceProperty = _list.serializedProperty.GetArrayElementAtIndex(index);
         raceProperty.FindPropertyRelative("raceName").stringValue = "(Race)";
+        raceProperty.FindPropertyRelative("avatars").arraySize = 0;
     }
 
     private void DrawElement(Rect rect, int index, bool isActive, bool isFocused)
@@ -66,7 +70,7 @@ public class RaceListEditor
         {
             //EditorGUILayout.FloatField(avatarLis.height);
         }
-        showList = EditorGUILayout.Foldout(showList, "Races");
+        showList = EditorGUILayout.Foldout(showList, categoryName);
         if (showList)
         {
             list.DoLayoutList();

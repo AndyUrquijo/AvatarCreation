@@ -14,8 +14,10 @@ public class AvatarPool : MonoBehaviour
 
     }
 
-    [HideInInspector]
-    public List<Race> races = new List<Race>();
+    [HideInInspector]  public List<Race> TeacherFemales = new List<Race>();
+    [HideInInspector]  public List<Race> TeacherMales = new List<Race>();
+    [HideInInspector]  public List<Race> StudentFemales = new List<Race>();
+    [HideInInspector]  public List<Race> StudentMales = new List<Race>();
 
 
     [Serializable]
@@ -26,20 +28,34 @@ public class AvatarPool : MonoBehaviour
 
     public RuntimeAnimatorController controller;
 
+    List<Race> currentRaceList;
     GameObject currentModel;
 
     Race currentRace;
     int raceIndex = 0;
     int avatarindex = 0;
 
+    public enum GENDER { Male, Female };
+    public enum ROLE { Teacher, Student };
+    GENDER currentGender = GENDER.Male;
+    ROLE currentRole = ROLE.Teacher;
+
+    public UnityEngine.UI.Text genderText;
+    public UnityEngine.UI.Text roleText;
     public UnityEngine.UI.Text raceText;
+
+
+
+
 
 
     void Start()
     {
-        if (currentRace == null && races.Count > 0)
+        UpdateRaceList();
+
+        if (currentRace == null && currentRaceList.Count > 0)
         {
-            currentRace = races[0];
+            currentRace = currentRaceList[0];
             raceText.text = currentRace.raceName;
         }
 
@@ -47,19 +63,67 @@ public class AvatarPool : MonoBehaviour
             UpdateModel();
     }
 
+    public void ToggleGender()
+    {
+        if (currentGender == GENDER.Male)
+            currentGender = GENDER.Female;
+        else
+            currentGender = GENDER.Male;
+
+        UpdateRaceList();
+    }
+
+    public void ToggleRole()
+    {
+        if (currentRole == ROLE.Teacher)
+            currentRole = ROLE.Student;
+        else
+            currentRole = ROLE.Teacher;
+
+        UpdateRaceList();
+    }
+
+    void UpdateRaceList()
+    {
+        if(currentRole == ROLE.Teacher)
+        {
+            if (currentGender == GENDER.Male)
+                currentRaceList = TeacherMales;
+            else
+                currentRaceList = TeacherFemales;
+        }
+        else
+        {
+            if (currentGender == GENDER.Male)
+                currentRaceList = StudentMales;
+            else
+                currentRaceList = StudentFemales;
+        }
+        genderText.text = currentGender.ToString();
+        roleText.text = currentRole.ToString();
+
+        if (currentRaceList.Count > 0)
+            currentRace = currentRaceList[0];
+        else
+            currentRace = null;
+
+        raceIndex = 0;
+        avatarindex = 0;
+        UpdateModel();
+    }
+
     public void NextRace()
     {
         Debug.Log("raceIndex " + raceIndex);
-        if (races.Count == 0)
+        if (currentRaceList.Count == 0)
             return;
 
         raceIndex++;
-        raceIndex %= races.Count;
-        currentRace = races[raceIndex];
+        raceIndex %= currentRaceList.Count;
+        currentRace = currentRaceList[raceIndex];
 
         avatarindex = 0;
         UpdateModel();
-        raceText.text = currentRace.raceName;
     }
 
     public void NextAvatar()
@@ -75,16 +139,16 @@ public class AvatarPool : MonoBehaviour
 
     public void UpdateModel()
     {
-        if (currentRace == null)
-            return;
+        raceText.text = currentRace.raceName;
 
-        GameObject currentSelection;
+        GameObject currentSelection = null;
 
-        if (avatarindex >= currentRace.avatars.Count)
-            currentSelection = null;
-        else
-            currentSelection = currentRace.avatars[avatarindex].Prefab;
-
+        if (currentRace != null)
+        {
+            if (avatarindex < currentRace.avatars.Count)
+                currentSelection = currentRace.avatars[avatarindex].Prefab;
+        }
+      
 
         if (currentModel && currentSelection && currentSelection.name == currentModel.name)
             return;
@@ -102,5 +166,32 @@ public class AvatarPool : MonoBehaviour
             Animator animator = currentModel.GetComponent<Animator>();
             animator.runtimeAnimatorController = controller;
         }
+    }
+
+    public void SaveAvatar()
+    {
+        PlayerPrefs.SetInt("currentRole", (int)currentRole);
+        PlayerPrefs.SetInt("currentGender", (int)currentGender);
+        PlayerPrefs.SetInt("raceIndex", raceIndex);
+        PlayerPrefs.SetInt("avatarindex", avatarindex);
+        //PlayerPrefs.set(currentRace.avatars[avatarindex].Prefab.)
+        PlayerPrefs.Save();
+    }
+
+    public void LoadAvatar()
+    {
+        int roleInt = PlayerPrefs.GetInt("currentRole", -1);
+        if (roleInt == -1)
+            return;
+        currentRole = (ROLE)roleInt;
+        int genderInt = PlayerPrefs.GetInt("currentGender", -1);
+        currentGender = (GENDER)genderInt;
+
+        UpdateRaceList();
+
+        raceIndex = PlayerPrefs.GetInt("raceIndex");
+        avatarindex = PlayerPrefs.GetInt("avatarindex");
+
+        UpdateModel();
     }
 }
