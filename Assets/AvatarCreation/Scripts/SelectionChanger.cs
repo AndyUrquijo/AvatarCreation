@@ -7,7 +7,7 @@ using System;
 [ExecuteInEditMode]
 public class SelectionChanger : MonoBehaviour 
 {
-    public enum SelectionAttribute { GENDER, RACE, AGE };
+    public enum SelectionAttribute { ROLE, GENDER, RACE, AGE };
 
     public SelectionAttribute attribute;
 
@@ -33,15 +33,16 @@ public class SelectionChanger : MonoBehaviour
         switch (attribute)
         {
             case SelectionAttribute.GENDER:
-                SelectionText.text = "\n" + UserData.Gender.ToString();
+                SelectionText.text = UserData.Gender.ToString();
                 break;
             case SelectionAttribute.RACE:
-                SelectionText.text = "\n" + UserData.Race.ToString();
+                SelectionText.text = UserData.Race.ToString();
                 break;
             case SelectionAttribute.AGE:
-                SelectionText.text = "\n" + UserData.Age.ToString();
+                SelectionText.text = UserData.Age.ToString();
                 break;
         }
+        SelectionText.text = "\n" + SelectionText.text.Replace("_", "");
     }
 
     public void Left()
