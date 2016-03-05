@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: 96398a7e0011bfb429d8fb103cb45409
+timeCreated: 1455742461
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Asian_Male_Teacher:Eyelashes1
+    100002: Asian_Male_Teacher:Head
+    100004: Asian_Male_Teacher:HeadTop_End
+    100006: Asian_Male_Teacher:Hips
+    100008: Asian_Male_Teacher:LeftArm
+    100010: Asian_Male_Teacher:LeftFoot
+    100012: Asian_Male_Teacher:LeftForeArm
+    100014: Asian_Male_Teacher:LeftHand
+    100016: Asian_Male_Teacher:LeftHandIndex1
+    100018: Asian_Male_Teacher:LeftHandIndex2
+    100020: Asian_Male_Teacher:LeftHandIndex3
+    100022: Asian_Male_Teacher:LeftHandIndex4
+    100024: Asian_Male_Teacher:LeftHandMiddle1
+    100026: Asian_Male_Teacher:LeftHandMiddle2
+    100028: Asian_Male_Teacher:LeftHandMiddle3
+    100030: Asian_Male_Teacher:LeftHandMiddle4
+    100032: Asian_Male_Teacher:LeftHandPinky1
+    100034: Asian_Male_Teacher:LeftHandPinky2
+    100036: Asian_Male_Teacher:LeftHandPinky3
+    100038: Asian_Male_Teacher:LeftHandPinky4
+    100040: Asian_Male_Teacher:LeftHandRing1
+    100042: Asian_Male_Teacher:LeftHandRing2
+    100044: Asian_Male_Teacher:LeftHandRing3
+    100046: Asian_Male_Teacher:LeftHandRing4
+    100048: Asian_Male_Teacher:LeftHandThumb1
+    100050: Asian_Male_Teacher:LeftHandThumb2
+    100052: Asian_Male_Teacher:LeftHandThumb3
+    100054: Asian_Male_Teacher:LeftHandThumb4
+    100056: Asian_Male_Teacher:LeftLeg
+    100058: Asian_Male_Teacher:LeftShoulder
+    100060: Asian_Male_Teacher:LeftToe_End
+    100062: Asian_Male_Teacher:LeftToeBase
+    100064: Asian_Male_Teacher:LeftUpLeg
+    100066: Asian_Male_Teacher:Neck
+    100068: Asian_Male_Teacher:RightArm
+    100070: Asian_Male_Teacher:RightFoot
+    100072: Asian_Male_Teacher:RightForeArm
+    100074: Asian_Male_Teacher:RightHand
+    100076: Asian_Male_Teacher:RightHandIndex1
+    100078: Asian_Male_Teacher:RightHandIndex2
+    100080: Asian_Male_Teacher:RightHandIndex3
+    100082: Asian_Male_Teacher:RightHandIndex4
+    100084: Asian_Male_Teacher:RightHandMiddle1
+    100086: Asian_Male_Teacher:RightHandMiddle2
+    100088: Asian_Male_Teacher:RightHandMiddle3
+    100090: Asian_Male_Teacher:RightHandMiddle4
+    100092: Asian_Male_Teacher:RightHandPinky1
+    100094: Asian_Male_Teacher:RightHandPinky2
+    100096: Asian_Male_Teacher:RightHandPinky3
+    100098: Asian_Male_Teacher:RightHandPinky4
+    100100: Asian_Male_Teacher:RightHandRing1
+    100102: Asian_Male_Teacher:RightHandRing2
+    100104: Asian_Male_Teacher:RightHandRing3
+    100106: Asian_Male_Teacher:RightHandRing4
+    100108: Asian_Male_Teacher:RightHandThumb1
+    100110: Asian_Male_Teacher:RightHandThumb2
+    100112: Asian_Male_Teacher:RightHandThumb3
+    100114: Asian_Male_Teacher:RightHandThumb4
+    100116: Asian_Male_Teacher:RightLeg
+    100118: Asian_Male_Teacher:RightShoulder
+    100120: Asian_Male_Teacher:RightToe_End
+    100122: Asian_Male_Teacher:RightToeBase
+    100124: Asian_Male_Teacher:RightUpLeg
+    100126: Asian_Male_Teacher:Spine
+    100128: Asian_Male_Teacher:Spine1
+    100130: Asian_Male_Teacher:Spine2
+    100132: //RootNode
+    400000: Asian_Male_Teacher:Eyelashes1
+    400002: Asian_Male_Teacher:Head
+    400004: Asian_Male_Teacher:HeadTop_End
+    400006: Asian_Male_Teacher:Hips
+    400008: Asian_Male_Teacher:LeftArm
+    400010: Asian_Male_Teacher:LeftFoot
+    400012: Asian_Male_Teacher:LeftForeArm
+    400014: Asian_Male_Teacher:LeftHand
+    400016: Asian_Male_Teacher:LeftHandIndex1
+    400018: Asian_Male_Teacher:LeftHandIndex2
+    400020: Asian_Male_Teacher:LeftHandIndex3
+    400022: Asian_Male_Teacher:LeftHandIndex4
+    400024: Asian_Male_Teacher:LeftHandMiddle1
+    400026: Asian_Male_Teacher:LeftHandMiddle2
+    400028: Asian_Male_Teacher:LeftHandMiddle3
+    400030: Asian_Male_Teacher:LeftHandMiddle4
+    400032: Asian_Male_Teacher:LeftHandPinky1
+    400034: Asian_Male_Teacher:LeftHandPinky2
+    400036: Asian_Male_Teacher:LeftHandPinky3
+    400038: Asian_Male_Teacher:LeftHandPinky4
+    400040: Asian_Male_Teacher:LeftHandRing1
+    400042: Asian_Male_Teacher:LeftHandRing2
+    400044: Asian_Male_Teacher:LeftHandRing3
+    400046: Asian_Male_Teacher:LeftHandRing4
+    400048: Asian_Male_Teacher:LeftHandThumb1
+    400050: Asian_Male_Teacher:LeftHandThumb2
+    400052: Asian_Male_Teacher:LeftHandThumb3
+    400054: Asian_Male_Teacher:LeftHandThumb4
+    400056: Asian_Male_Teacher:LeftLeg
+    400058: Asian_Male_Teacher:LeftShoulder
+    400060: Asian_Male_Teacher:LeftToe_End
+    400062: Asian_Male_Teacher:LeftToeBase
+    400064: Asian_Male_Teacher:LeftUpLeg
+    400066: Asian_Male_Teacher:Neck
+    400068: Asian_Male_Teacher:RightArm
+    400070: Asian_Male_Teacher:RightFoot
+    400072: Asian_Male_Teacher:RightForeArm
+    400074: Asian_Male_Teacher:RightHand
+    400076: Asian_Male_Teacher:RightHandIndex1
+    400078: Asian_Male_Teacher:RightHandIndex2
+    400080: Asian_Male_Teacher:RightHandIndex3
+    400082: Asian_Male_Teacher:RightHandIndex4
+    400084: Asian_Male_Teacher:RightHandMiddle1
+    400086: Asian_Male_Teacher:RightHandMiddle2
+    400088: Asian_Male_Teacher:RightHandMiddle3
+    400090: Asian_Male_Teacher:RightHandMiddle4
+    400092: Asian_Male_Teacher:RightHandPinky1
+    400094: Asian_Male_Teacher:RightHandPinky2
+    400096: Asian_Male_Teacher:RightHandPinky3
+    400098: Asian_Male_Teacher:RightHandPinky4
+    400100: Asian_Male_Teacher:RightHandRing1
+    400102: Asian_Male_Teacher:RightHandRing2
+    400104: Asian_Male_Teacher:RightHandRing3
+    400106: Asian_Male_Teacher:RightHandRing4
+    400108: Asian_Male_Teacher:RightHandThumb1
+    400110: Asian_Male_Teacher:RightHandThumb2
+    400112: Asian_Male_Teacher:RightHandThumb3
+    400114: Asian_Male_Teacher:RightHandThumb4
+    400116: Asian_Male_Teacher:RightLeg
+    400118: Asian_Male_Teacher:RightShoulder
+    400120: Asian_Male_Teacher:RightToe_End
+    400122: Asian_Male_Teacher:RightToeBase
+    400124: Asian_Male_Teacher:RightUpLeg
+    400126: Asian_Male_Teacher:Spine
+    400128: Asian_Male_Teacher:Spine1
+    400130: Asian_Male_Teacher:Spine2
+    400132: //RootNode
+    4300000: Asian_Male_Teacher:Eyelashes1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Asian_Male_Teacher:Eyelashes1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Asian_Male_Teacher:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Asian_Male_Teacher:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Asian_Teacher_Male2_Rig(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:Eyelashes1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:Hips
+      position: {x: -0.000002399154, y: 0.8965507, z: -0.0059161955}
+      rotation: {x: -0.0000050245794, y: -0.000002432336, z: 0.00005401146, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightUpLeg
+      position: {x: 0.06721115, y: -0.04959465, z: 0.011820297}
+      rotation: {x: -0.00006118136, y: -0.008978043, z: 0.9998961, w: -0.011278053}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightLeg
+      position: {x: -1.4296284e-10, y: 0.3922441, z: -2.790045e-10}
+      rotation: {x: -0.02040402, y: 0.00013675596, z: -0.022475723, w: 0.99953914}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightFoot
+      position: {x: 6.055086e-11, y: 0.3858041, z: 0.0000000016720116}
+      rotation: {x: 0.5537921, y: -0.0031227828, z: 0.0007454593, w: 0.83264875}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightToeBase
+      position: {x: -4.9910128e-11, y: 0.15824515, z: -0.000000001594694}
+      rotation: {x: 0.23231453, y: 0.070043094, z: -0.016775796, w: 0.9699704}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightToe_End
+      position: {x: -1.5709087e-11, y: 0.06886788, z: 2.2524161e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:Spine
+      position: {x: -0, y: 0.08921005, z: -0.011210362}
+      rotation: {x: -0.06245799, y: 0.000005801308, z: -0.000053754055, w: 0.9980476}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:Spine1
+      position: {x: -0, y: 0.10489683, z: -7.3345746e-10}
+      rotation: {x: 8.5512097e-26, y: -1.2734818e-13, z: 6.7148267e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:Spine2
+      position: {x: -0, y: 0.11988215, z: 5.978906e-10}
+      rotation: {x: 0, y: -0, z: -1.8932662e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftShoulder
+      position: {x: -0.05399935, y: 0.12023787, z: -0.0019067607}
+      rotation: {x: 0.5521808, y: -0.43644434, z: 0.5721627, w: 0.42100182}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftArm
+      position: {x: -7.821011e-11, y: 0.10917175, z: 6.4423855e-10}
+      rotation: {x: -0.13354106, y: -0.0076066502, z: -0.016993664, w: 0.9908684}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftForeArm
+      position: {x: 9.506906e-10, y: 0.2215994, z: 1.3421214e-10}
+      rotation: {x: -0.00000010662923, y: 0.0011761959, z: -0.0000005058507, w: 0.99999934}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHand
+      position: {x: 1.4825427e-10, y: 0.22748889, z: -1.2385243e-10}
+      rotation: {x: 0.0067228545, y: -0.06379319, z: 0.0499273, w: 0.99669075}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandPinky1
+      position: {x: -0.023565892, y: 0.07458172, z: 0.00065995764}
+      rotation: {x: -0.009589787, y: 0.0062764566, z: -0.049812663, w: 0.9986928}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandPinky2
+      position: {x: -0.000015227864, y: 0.02103078, z: -1.612085e-10}
+      rotation: {x: 0.00000024855942, y: -0.0000054383127, z: -0.0003447237, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandPinky3
+      position: {x: -0.000024445631, y: 0.017109724, z: 7.770211e-12}
+      rotation: {x: 0.000000006250647, y: -0.000015525755, z: 0.0019560757, w: 0.9999981}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandPinky4
+      position: {x: 0.00003967493, y: 0.015940435, z: -3.0785458e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandRing1
+      position: {x: -0.008994321, y: 0.08298298, z: -0.0019179533}
+      rotation: {x: -0.009804104, y: 0.0018621337, z: -0.0480092, w: 0.99879706}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandRing2
+      position: {x: 0.00006109062, y: 0.021688664, z: 1.8459331e-11}
+      rotation: {x: 0.00000001965167, y: -0.000019992316, z: -0.0031756463, w: 0.999995}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandRing3
+      position: {x: -0.000073795156, y: 0.020909848, z: -3.6639733e-10}
+      rotation: {x: 0.00000024997382, y: 0.000049763657, z: 0.0021181428, w: 0.9999978}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandRing4
+      position: {x: 0.000012704262, y: 0.01864263, z: 3.1678069e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandThumb1
+      position: {x: 0.02043454, y: 0.025533127, z: 0.0104148695}
+      rotation: {x: 0.062096454, y: 0.0031521325, z: -0.3573928, w: 0.93188226}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandThumb2
+      position: {x: 0.0021882532, y: 0.027370011, z: 4.0479847e-10}
+      rotation: {x: 0.000009641965, y: 0.0008271943, z: -0.06859958, w: 0.99764395}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandThumb3
+      position: {x: -0.0014325002, y: 0.024878616, z: 6.2672995e-10}
+      rotation: {x: 0.000045865763, y: -0.0009841587, z: 0.011124299, w: 0.99993765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandThumb4
+      position: {x: -0.0007557497, y: 0.021415519, z: -9.780169e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandMiddle1
+      position: {x: 0.008274221, y: 0.08343254, z: -0.0016580203}
+      rotation: {x: -0.009767898, y: 0.0026416562, z: -0.04957933, w: 0.9987189}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandMiddle2
+      position: {x: -0.000008386856, y: 0.02530132, z: 2.4555988e-10}
+      rotation: {x: -0.00000034520858, y: -0.0000240434, z: -0.0009702451, w: 0.9999995}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandMiddle3
+      position: {x: -0.000053032643, y: 0.023487303, z: 5.6377303e-12}
+      rotation: {x: 0.00000047130837, y: -0.000014460479, z: 0.002546787, w: 0.9999968}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandMiddle4
+      position: {x: 0.00006141944, y: 0.02150196, z: -2.9808717e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandIndex1
+      position: {x: 0.024285993, y: 0.08055585, z: -0.00017478172}
+      rotation: {x: -0.009908902, y: -0.00020386557, z: -0.048287388, w: 0.9987843}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandIndex2
+      position: {x: 0.000051223622, y: 0.023015944, z: -4.822868e-10}
+      rotation: {x: 0.0000002928468, y: 0.0000129168775, z: -0.001750082, w: 0.9999985}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandIndex3
+      position: {x: -0.000028235669, y: 0.021806164, z: 7.013511e-11}
+      rotation: {x: -0.0000002463518, y: 0.000027196937, z: 0.0000707209, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftHandIndex4
+      position: {x: -0.000022987917, y: 0.020126916, z: 1.2780191e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightShoulder
+      position: {x: 0.05399935, y: 0.12022095, z: -0.0017721261}
+      rotation: {x: -0.55297226, y: -0.4358102, z: 0.571532, w: -0.4214763}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightArm
+      position: {x: -2.4429117e-10, y: 0.10917176, z: -0.0000000018981512}
+      rotation: {x: -0.13369724, y: 0.0075145466, z: 0.01571799, w: 0.9908691}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightForeArm
+      position: {x: 6.749792e-10, y: 0.22156388, z: 1.05394235e-10}
+      rotation: {x: -0.00000027651524, y: -0.001122407, z: -0.00000014134388, w: 0.9999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHand
+      position: {x: -1.912731e-10, y: 0.22744401, z: 1.6374826e-10}
+      rotation: {x: -0.0020889386, y: 0.06895021, z: -0.045775287, w: 0.9965672}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandMiddle1
+      position: {x: -0.008134177, y: 0.08849866, z: -0.00019133813}
+      rotation: {x: -0.0010610229, y: -0.0003212378, z: 0.04481843, w: 0.9989945}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandMiddle2
+      position: {x: -0.000049479942, y: 0.024654375, z: 3.703576e-11}
+      rotation: {x: 0.00000063717243, y: 0.00021938904, z: 0.004718172, w: 0.99998885}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandMiddle3
+      position: {x: 0.00017494636, y: 0.023492884, z: 4.410282e-10}
+      rotation: {x: 0.00000038003355, y: -0.0000669437, z: -0.0068848147, w: 0.99997634}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandMiddle4
+      position: {x: -0.00012546605, y: 0.019775841, z: -4.5110938e-12}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandThumb1
+      position: {x: -0.02005739, y: 0.026467301, z: 0.010009358}
+      rotation: {x: 0.06377867, y: -0.0015615672, z: 0.37469545, w: 0.92495036}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandThumb2
+      position: {x: -0.001045742, y: 0.02772774, z: 1.5503587e-10}
+      rotation: {x: 0.00011788498, y: 0.0031665287, z: 0.074724205, w: 0.9971992}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandThumb3
+      position: {x: 0.0029684782, y: 0.026417116, z: 3.7358033e-10}
+      rotation: {x: 0.00000785948, y: 0.00055308285, z: -0.09755481, w: 0.99523}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandThumb4
+      position: {x: -0.0019227392, y: 0.022965932, z: 0.0000000010582104}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandRing1
+      position: {x: 0.00826726, y: 0.08710446, z: -0.0010648952}
+      rotation: {x: -0.0011105768, y: 0.0007075899, z: 0.043137662, w: 0.99906826}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandRing2
+      position: {x: -0.000115661685, y: 0.021683687, z: 1.3648389e-11}
+      rotation: {x: -0.00000019732876, y: 0.000061971696, z: 0.006051959, w: 0.9999817}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandRing3
+      position: {x: 0.00013969239, y: 0.020726671, z: 1.09852745e-10}
+      rotation: {x: -0.00000008797347, y: -0.00016036713, z: -0.004003093, w: 0.999992}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandRing4
+      position: {x: -0.000024030629, y: 0.019173447, z: -8.172634e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandPinky1
+      position: {x: 0.023170896, y: 0.07784788, z: 0.00045217204}
+      rotation: {x: -0.00086903316, y: -0.004668283, z: 0.047396272, w: 0.9988649}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandPinky2
+      position: {x: 0.000068035624, y: 0.021482496, z: 1.935797e-10}
+      rotation: {x: 0.00000006720876, y: 0.00007620255, z: 0.0012309067, w: 0.9999992}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandPinky3
+      position: {x: 0.000099095036, y: 0.01759312, z: -1.9107034e-10}
+      rotation: {x: -0.00000017494635, y: 0.00024255969, z: -0.0080386335, w: 0.9999677}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandPinky4
+      position: {x: -0.00016712966, y: 0.015980238, z: 2.6270186e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandIndex1
+      position: {x: -0.023303978, y: 0.08191677, z: -0.0010417545}
+      rotation: {x: -0.0011488872, y: 0.0015517975, z: 0.044548877, w: 0.9990053}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandIndex2
+      position: {x: -0.00006057949, y: 0.0241882, z: 5.365535e-10}
+      rotation: {x: 0.00000015000376, y: -0.000013420386, z: 0.0016896134, w: 0.99999857}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandIndex3
+      position: {x: 0.000018615005, y: 0.02216437, z: -7.3413925e-10}
+      rotation: {x: 0.0000002978887, y: 0.000008203198, z: 0.00056704937, w: 0.9999999}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:RightHandIndex4
+      position: {x: 0.000041964046, y: 0.021090817, z: -1.3096723e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:Neck
+      position: {x: -0, y: 0.13486741, z: 0.000000007608981}
+      rotation: {x: 0.062463008, y: 2.8347232e-14, z: 2.2959277e-13, w: 0.9980473}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:Head
+      position: {x: -0, y: 0.059789427, z: 0.020190708}
+      rotation: {x: 0, y: 0, z: 1.3329397e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:HeadTop_End
+      position: {x: -0, y: 0.20514862, z: 0.06927808}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftUpLeg
+      position: {x: -0.06721115, y: -0.04959465, z: -0.00068535504}
+      rotation: {x: 0.000038701502, y: -0.0066559142, z: 0.999913, w: 0.011391535}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftLeg
+      position: {x: 5.6938274e-11, y: 0.3922088, z: -3.3453382e-10}
+      rotation: {x: -0.008882884, y: 0.0001547641, z: 0.022491919, w: 0.9997076}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftFoot
+      position: {x: 4.5390378e-10, y: 0.3853158, z: 2.9611505e-10}
+      rotation: {x: 0.5367438, y: 0.0033072846, z: -0.00080119935, w: 0.8437384}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftToeBase
+      position: {x: 5.8353426e-11, y: 0.15417334, z: -0.0000000024432523}
+      rotation: {x: 0.2384982, y: -0.06787337, z: 0.016712023, w: 0.96862406}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Asian_Male_Teacher:LeftToe_End
+      position: {x: 2.2077547e-10, y: 0.06966467, z: -7.041873e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

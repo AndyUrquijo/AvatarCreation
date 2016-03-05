@@ -1,0 +1,1050 @@
+fileFormatVersion: 2
+guid: 4e3c305677b27694f842b188d64acd03
+timeCreated: 1455762011
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: _hispanic_Males:Body
+    100004: _hispanic_Males:Bottoms
+    100006: _hispanic_Males:default1
+    100008: _hispanic_Males:Eyelashes
+    100010: _hispanic_Males:Eyelashes1
+    100012: _hispanic_Males:Hair
+    100014: _hispanic_Males:Head
+    100016: _hispanic_Males:HeadTop_End
+    100018: _hispanic_Males:Hips
+    100020: _hispanic_Males:LeftArm
+    100022: _hispanic_Males:LeftFoot
+    100024: _hispanic_Males:LeftForeArm
+    100026: _hispanic_Males:LeftHand
+    100028: _hispanic_Males:LeftHandIndex1
+    100030: _hispanic_Males:LeftHandIndex2
+    100032: _hispanic_Males:LeftHandIndex3
+    100034: _hispanic_Males:LeftHandIndex4
+    100036: _hispanic_Males:LeftHandMiddle1
+    100038: _hispanic_Males:LeftHandMiddle2
+    100040: _hispanic_Males:LeftHandMiddle3
+    100042: _hispanic_Males:LeftHandMiddle4
+    100044: _hispanic_Males:LeftHandPinky1
+    100046: _hispanic_Males:LeftHandPinky2
+    100048: _hispanic_Males:LeftHandPinky3
+    100050: _hispanic_Males:LeftHandPinky4
+    100052: _hispanic_Males:LeftHandRing1
+    100054: _hispanic_Males:LeftHandRing2
+    100056: _hispanic_Males:LeftHandRing3
+    100058: _hispanic_Males:LeftHandRing4
+    100060: _hispanic_Males:LeftHandThumb1
+    100062: _hispanic_Males:LeftHandThumb2
+    100064: _hispanic_Males:LeftHandThumb3
+    100066: _hispanic_Males:LeftHandThumb4
+    100068: _hispanic_Males:LeftLeg
+    100070: _hispanic_Males:LeftShoulder
+    100072: _hispanic_Males:LeftToe_End
+    100074: _hispanic_Males:LeftToeBase
+    100076: _hispanic_Males:LeftUpLeg
+    100078: _hispanic_Males:Neck
+    100080: _hispanic_Males:RightArm
+    100082: _hispanic_Males:RightFoot
+    100084: _hispanic_Males:RightForeArm
+    100086: _hispanic_Males:RightHand
+    100088: _hispanic_Males:RightHandIndex1
+    100090: _hispanic_Males:RightHandIndex2
+    100092: _hispanic_Males:RightHandIndex3
+    100094: _hispanic_Males:RightHandIndex4
+    100096: _hispanic_Males:RightHandMiddle1
+    100098: _hispanic_Males:RightHandMiddle2
+    100100: _hispanic_Males:RightHandMiddle3
+    100102: _hispanic_Males:RightHandMiddle4
+    100104: _hispanic_Males:RightHandPinky1
+    100106: _hispanic_Males:RightHandPinky2
+    100108: _hispanic_Males:RightHandPinky3
+    100110: _hispanic_Males:RightHandPinky4
+    100112: _hispanic_Males:RightHandRing1
+    100114: _hispanic_Males:RightHandRing2
+    100116: _hispanic_Males:RightHandRing3
+    100118: _hispanic_Males:RightHandRing4
+    100120: _hispanic_Males:RightHandThumb1
+    100122: _hispanic_Males:RightHandThumb2
+    100124: _hispanic_Males:RightHandThumb3
+    100126: _hispanic_Males:RightHandThumb4
+    100128: _hispanic_Males:RightLeg
+    100130: _hispanic_Males:RightShoulder
+    100132: _hispanic_Males:RightToe_End
+    100134: _hispanic_Males:RightToeBase
+    100136: _hispanic_Males:RightUpLeg
+    100138: _hispanic_Males:Shoes
+    100140: _hispanic_Males:Spine
+    100142: _hispanic_Males:Spine1
+    100144: _hispanic_Males:Spine2
+    100146: _hispanic_Males:Tops
+    100148: _hispanic_Males:transform1
+    100150: _hispanic_Males:transform2
+    100152: _hispanic_Males:transform3
+    100154: _hispanic_Males:transform4
+    100156: _hispanic_Males:transform5
+    100158: _hispanic_Males:transform6
+    100160: _hispanic_Males:transform7
+    400000: //RootNode
+    400002: _hispanic_Males:Body
+    400004: _hispanic_Males:Bottoms
+    400006: _hispanic_Males:default1
+    400008: _hispanic_Males:Eyelashes
+    400010: _hispanic_Males:Eyelashes1
+    400012: _hispanic_Males:Hair
+    400014: _hispanic_Males:Head
+    400016: _hispanic_Males:HeadTop_End
+    400018: _hispanic_Males:Hips
+    400020: _hispanic_Males:LeftArm
+    400022: _hispanic_Males:LeftFoot
+    400024: _hispanic_Males:LeftForeArm
+    400026: _hispanic_Males:LeftHand
+    400028: _hispanic_Males:LeftHandIndex1
+    400030: _hispanic_Males:LeftHandIndex2
+    400032: _hispanic_Males:LeftHandIndex3
+    400034: _hispanic_Males:LeftHandIndex4
+    400036: _hispanic_Males:LeftHandMiddle1
+    400038: _hispanic_Males:LeftHandMiddle2
+    400040: _hispanic_Males:LeftHandMiddle3
+    400042: _hispanic_Males:LeftHandMiddle4
+    400044: _hispanic_Males:LeftHandPinky1
+    400046: _hispanic_Males:LeftHandPinky2
+    400048: _hispanic_Males:LeftHandPinky3
+    400050: _hispanic_Males:LeftHandPinky4
+    400052: _hispanic_Males:LeftHandRing1
+    400054: _hispanic_Males:LeftHandRing2
+    400056: _hispanic_Males:LeftHandRing3
+    400058: _hispanic_Males:LeftHandRing4
+    400060: _hispanic_Males:LeftHandThumb1
+    400062: _hispanic_Males:LeftHandThumb2
+    400064: _hispanic_Males:LeftHandThumb3
+    400066: _hispanic_Males:LeftHandThumb4
+    400068: _hispanic_Males:LeftLeg
+    400070: _hispanic_Males:LeftShoulder
+    400072: _hispanic_Males:LeftToe_End
+    400074: _hispanic_Males:LeftToeBase
+    400076: _hispanic_Males:LeftUpLeg
+    400078: _hispanic_Males:Neck
+    400080: _hispanic_Males:RightArm
+    400082: _hispanic_Males:RightFoot
+    400084: _hispanic_Males:RightForeArm
+    400086: _hispanic_Males:RightHand
+    400088: _hispanic_Males:RightHandIndex1
+    400090: _hispanic_Males:RightHandIndex2
+    400092: _hispanic_Males:RightHandIndex3
+    400094: _hispanic_Males:RightHandIndex4
+    400096: _hispanic_Males:RightHandMiddle1
+    400098: _hispanic_Males:RightHandMiddle2
+    400100: _hispanic_Males:RightHandMiddle3
+    400102: _hispanic_Males:RightHandMiddle4
+    400104: _hispanic_Males:RightHandPinky1
+    400106: _hispanic_Males:RightHandPinky2
+    400108: _hispanic_Males:RightHandPinky3
+    400110: _hispanic_Males:RightHandPinky4
+    400112: _hispanic_Males:RightHandRing1
+    400114: _hispanic_Males:RightHandRing2
+    400116: _hispanic_Males:RightHandRing3
+    400118: _hispanic_Males:RightHandRing4
+    400120: _hispanic_Males:RightHandThumb1
+    400122: _hispanic_Males:RightHandThumb2
+    400124: _hispanic_Males:RightHandThumb3
+    400126: _hispanic_Males:RightHandThumb4
+    400128: _hispanic_Males:RightLeg
+    400130: _hispanic_Males:RightShoulder
+    400132: _hispanic_Males:RightToe_End
+    400134: _hispanic_Males:RightToeBase
+    400136: _hispanic_Males:RightUpLeg
+    400138: _hispanic_Males:Shoes
+    400140: _hispanic_Males:Spine
+    400142: _hispanic_Males:Spine1
+    400144: _hispanic_Males:Spine2
+    400146: _hispanic_Males:Tops
+    400148: _hispanic_Males:transform1
+    400150: _hispanic_Males:transform2
+    400152: _hispanic_Males:transform3
+    400154: _hispanic_Males:transform4
+    400156: _hispanic_Males:transform5
+    400158: _hispanic_Males:transform6
+    400160: _hispanic_Males:transform7
+    4300000: _hispanic_Males:Eyelashes1
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: _hispanic_Males:Eyelashes1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: _hispanic_Males:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _hispanic_Males:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: 10__H_Male(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Body
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Bottoms
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:default1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Eyelashes
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:transform7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Eyelashes1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Hair
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Shoes
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Tops
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Hips
+      position: {x: 0.000011230553, y: 0.8667243, z: 0.009253368}
+      rotation: {x: -0.0000016239211, y: 0.000003952217, z: -0.00012633546, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftUpLeg
+      position: {x: -0.0688498, y: -0.048741836, z: -0.0084630875}
+      rotation: {x: -0.00027215932, y: 0.0036864995, z: 0.9999924, w: 0.0012584229}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftLeg
+      position: {x: 1.8592504e-11, y: 0.36279425, z: 0.0000000013022954}
+      rotation: {x: -0.03884512, y: -0.000013950596, z: 0.0027051717, w: 0.9992416}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftFoot
+      position: {x: 2.1340248e-10, y: 0.3731343, z: 0.0000000021690443}
+      rotation: {x: 0.47393277, y: -0.021973038, z: 0.018266222, w: 0.8800973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftToeBase
+      position: {x: 3.218335e-11, y: 0.13640212, z: 0.000000004046438}
+      rotation: {x: 0.3193187, y: 0.025313573, z: -0.008533045, w: 0.9472708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftToe_End
+      position: {x: 6.594356e-11, y: 0.051435336, z: 7.0838977e-12}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightUpLeg
+      position: {x: 0.0688498, y: -0.048741836, z: -0.010232744}
+      rotation: {x: 0.00023154097, y: 0.0021599624, z: 0.99999654, w: -0.0015131786}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightLeg
+      position: {x: -5.190789e-11, y: 0.3626745, z: 4.142098e-11}
+      rotation: {x: -0.033462103, y: 0.0000026945195, z: -0.0027105878, w: 0.9994363}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightFoot
+      position: {x: 3.659624e-12, y: 0.3729894, z: -8.5434165e-10}
+      rotation: {x: 0.469652, y: 0.022068273, z: -0.01832393, w: 0.88238555}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightToeBase
+      position: {x: 5.553997e-10, y: 0.1360474, z: -0.0000000041650847}
+      rotation: {x: 0.32029864, y: -0.025738854, z: 0.008706181, w: 0.9469269}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightToe_End
+      position: {x: 3.2095455e-11, y: 0.052197956, z: -9.102531e-12}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Spine
+      position: {x: -0, y: 0.08771492, z: -0.010421364}
+      rotation: {x: -0.059091553, y: -0.000011410816, z: 0.00012588114, w: 0.9982526}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Spine1
+      position: {x: -0, y: 0.10305371, z: 1.57587e-11}
+      rotation: {x: 6.938894e-18, y: -1.2281102e-13, z: 6.723273e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Spine2
+      position: {x: -0, y: 0.117775746, z: 2.6545932e-10}
+      rotation: {x: 6.938894e-18, y: -0, z: -1.735494e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightShoulder
+      position: {x: 0.051710565, y: 0.11652795, z: -0.001659491}
+      rotation: {x: -0.5599458, y: -0.4262789, z: 0.57826585, w: -0.41274154}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightArm
+      position: {x: 1.1794032e-10, y: 0.1088328, z: 0.0000000010141157}
+      rotation: {x: -0.14972255, y: 0.010705554, z: 0.014669928, w: 0.9885613}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightForeArm
+      position: {x: 5.298532e-10, y: 0.23132637, z: -6.84048e-11}
+      rotation: {x: -0.00000006334393, y: -0.00016731366, z: -0.00000028723179, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHand
+      position: {x: 5.426284e-11, y: 0.17118524, z: 1.3238917e-10}
+      rotation: {x: 0.0045305253, y: 0.067071795, z: -0.04713282, w: 0.996624}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandMiddle1
+      position: {x: -0.007934021, y: 0.08462029, z: -0.0013050468}
+      rotation: {x: -0.007639261, y: -0.0009978836, z: 0.047592252, w: 0.9988371}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandMiddle2
+      position: {x: 0.000042814096, y: 0.024895638, z: 2.503117e-10}
+      rotation: {x: 0.00000041785196, y: 0.000099221594, z: 0.0018333014, w: 0.99999833}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandMiddle3
+      position: {x: 0.0001263261, y: 0.023359982, z: -7.41656e-11}
+      rotation: {x: 0.0000002225598, y: 0.00012205209, z: -0.006603037, w: 0.9999782}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandMiddle4
+      position: {x: -0.00016914005, y: 0.021631634, z: -6.161329e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandRing1
+      position: {x: 0.0080259675, y: 0.082803436, z: -0.0016718148}
+      rotation: {x: -0.007642617, y: -0.0008836096, z: 0.044828802, w: 0.9989651}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandRing2
+      position: {x: -0.00008531547, y: 0.022339227, z: -2.2679358e-10}
+      rotation: {x: 0.00000042974108, y: -0.000051436335, z: 0.0017156636, w: 0.99999857}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandRing3
+      position: {x: -0.000008002564, y: 0.021417715, z: -1.0851096e-10}
+      rotation: {x: 0.00000051046135, y: 0.00007775479, z: 0.0025619627, w: 0.9999967}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandRing4
+      position: {x: 0.000093318704, y: 0.019577077, z: -2.0244868e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandPinky1
+      position: {x: 0.023892395, y: 0.07556865, z: 0.0019556521}
+      rotation: {x: -0.007849005, y: 0.0034730134, z: 0.04623262, w: 0.9988938}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandPinky2
+      position: {x: -0.000018519222, y: 0.020505797, z: -1.9146171e-10}
+      rotation: {x: 0.0000006417862, y: 0.0001845537, z: 0.004183254, w: 0.99999124}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandPinky3
+      position: {x: 0.00012495511, y: 0.016800825, z: 1.4593723e-10}
+      rotation: {x: 0.00000009536808, y: -0.000018769846, z: -0.0072455094, w: 0.9999738}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandPinky4
+      position: {x: -0.00010643597, y: 0.015033384, z: 1.6753886e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandThumb1
+      position: {x: -0.01984977, y: 0.02630298, z: 0.011757854}
+      rotation: {x: 0.05675438, y: -0.0059134797, z: 0.37292275, w: 0.9261061}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandThumb2
+      position: {x: -0.001231461, y: 0.027962718, z: 7.113107e-10}
+      rotation: {x: 0.0000115259145, y: 0.00074662914, z: 0.059000928, w: 0.99825764}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandThumb3
+      position: {x: 0.001889169, y: 0.025454167, z: 7.8514717e-10}
+      rotation: {x: 0.000003729496, y: 0.00015899526, z: -0.052421313, w: 0.99862504}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandThumb4
+      position: {x: -0.00065770623, y: 0.021346683, z: 8.8585433e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandIndex1
+      position: {x: -0.023984341, y: 0.081163436, z: 0.00008368339}
+      rotation: {x: -0.007750619, y: 0.0014078041, z: 0.046904027, w: 0.99886835}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandIndex2
+      position: {x: 0.000008970738, y: 0.02330456, z: 1.7252119e-10}
+      rotation: {x: 0.0000004776352, y: 0.000032711505, z: 0.0013889096, w: 0.99999905}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandIndex3
+      position: {x: 0.00006773408, y: 0.021490907, z: -6.4546185e-10}
+      rotation: {x: 0.000000041145288, y: 0.000017915121, z: -0.0034668443, w: 0.999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:RightHandIndex4
+      position: {x: -0.00007670503, y: 0.020425962, z: -8.447728e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftShoulder
+      position: {x: -0.051710565, y: 0.11658369, z: -0.002128599}
+      rotation: {x: 0.55710995, y: -0.4284454, z: 0.58055717, w: 0.4111161}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftArm
+      position: {x: 2.622663e-10, y: 0.10883281, z: -0.0000000017867696}
+      rotation: {x: -0.14918163, y: -0.009506476, z: -0.01941595, w: 0.98857343}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftForeArm
+      position: {x: 0.0000000010025053, y: 0.23127018, z: 8.429495e-11}
+      rotation: {x: -0.00000007669987, y: 0.00014496037, z: -0.0000001581687, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHand
+      position: {x: -1.0111757e-10, y: 0.17123117, z: 1.2351407e-10}
+      rotation: {x: 0.0044673807, y: -0.06285146, z: 0.047818717, w: 0.99686664}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandRing1
+      position: {x: -0.008865125, y: 0.0797006, z: -0.0015714576}
+      rotation: {x: -0.007436391, y: 0.0006539318, z: -0.04654622, w: 0.99888825}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandRing2
+      position: {x: 0.000041122705, y: 0.022709789, z: -2.3557162e-10}
+      rotation: {x: 0.00000026244805, y: -0.000025905043, z: -0.00248468, w: 0.9999969}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandRing3
+      position: {x: -0.000067244975, y: 0.021175636, z: 2.0285369e-10}
+      rotation: {x: -0.00000041406622, y: 0.000031012092, z: 0.0022626526, w: 0.99999744}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandRing4
+      position: {x: 0.000026122561, y: 0.01909663, z: 1.4415605e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandPinky1
+      position: {x: -0.023114523, y: 0.072238505, z: 0.0016041278}
+      rotation: {x: -0.0075088437, y: -0.00085524237, z: -0.0470713, w: 0.9988629}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandPinky2
+      position: {x: 0.000015160266, y: 0.020520544, z: -1.988596e-10}
+      rotation: {x: -0.00000015880714, y: -0.00003973944, z: -0.0021002013, w: 0.9999978}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandPinky3
+      position: {x: -0.00005889791, y: 0.017005734, z: -1.6866295e-11}
+      rotation: {x: 0.00000001555896, y: 0.000014526896, z: 0.003133088, w: 0.9999951}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandPinky4
+      position: {x: 0.00004373875, y: 0.015731242, z: -8.398785e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandThumb1
+      position: {x: 0.019721184, y: 0.023939738, z: 0.011375076}
+      rotation: {x: 0.05644735, y: -0.0045192097, z: -0.37953013, w: 0.92344475}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandThumb2
+      position: {x: 0.0008165146, y: 0.026416825, z: 7.2124123e-10}
+      rotation: {x: 0.00009362384, y: -0.0021275545, z: -0.07478073, w: 0.99719775}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandThumb3
+      position: {x: -0.0030265131, y: 0.025363037, z: -4.871245e-10}
+      rotation: {x: -0.000004221426, y: 0.00052040553, z: 0.11111963, w: 0.99380696}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandThumb4
+      position: {x: 0.0022099991, y: 0.021191342, z: 3.6843942e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandMiddle1
+      position: {x: 0.0075218766, y: 0.07899952, z: -0.0011837716}
+      rotation: {x: -0.0074458164, y: 0.00046832603, z: -0.047133088, w: 0.9988608}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandMiddle2
+      position: {x: 0.000016030304, y: 0.025537817, z: -4.682957e-10}
+      rotation: {x: 0.00000030172606, y: -0.00013459274, z: -0.003170798, w: 0.999995}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandMiddle3
+      position: {x: -0.00014130161, y: 0.024670638, z: -1.06600735e-10}
+      rotation: {x: -0.00000012438846, y: 0.0000068634736, z: 0.005642742, w: 0.9999841}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandMiddle4
+      position: {x: 0.00012527137, y: 0.022439742, z: 1.909214e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandIndex1
+      position: {x: 0.024457771, y: 0.07704854, z: 0.00025366843}
+      rotation: {x: -0.007489361, y: -0.0004530205, z: -0.047481872, w: 0.99884397}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandIndex2
+      position: {x: -0.0000017084564, y: 0.023393678, z: -2.2290209e-10}
+      rotation: {x: 0.00000032411342, y: -0.000014105943, z: -0.0009361509, w: 0.9999996}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandIndex3
+      position: {x: -0.00004344521, y: 0.02196308, z: -1.3386625e-12}
+      rotation: {x: 0.00000012792366, y: -0.0000053118974, z: 0.0020763872, w: 0.99999785}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:LeftHandIndex4
+      position: {x: 0.000045154666, y: 0.020502169, z: 3.6387887e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Neck
+      position: {x: -0, y: 0.13249762, z: -0.000000004204749}
+      rotation: {x: 0.059093155, y: 2.9122192e-14, z: 2.294957e-13, w: 0.9982525}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:Head
+      position: {x: -0, y: 0.073496394, z: 0.025503192}
+      rotation: {x: 0, y: -0, z: -7.0575336e-31, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _hispanic_Males:HeadTop_End
+      position: {x: -0, y: 0.22386047, z: 0.07767942}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

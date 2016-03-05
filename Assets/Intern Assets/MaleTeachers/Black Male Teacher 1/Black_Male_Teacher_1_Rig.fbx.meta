@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: aeeeb7637f67e2b4988ce8d5a764169f
+timeCreated: 1455742468
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Black_Teacher_1:default2
+    100004: Black_Teacher_1:Head
+    100006: Black_Teacher_1:HeadTop_End
+    100008: Black_Teacher_1:Hips
+    100010: Black_Teacher_1:LeftArm
+    100012: Black_Teacher_1:LeftFoot
+    100014: Black_Teacher_1:LeftForeArm
+    100016: Black_Teacher_1:LeftHand
+    100018: Black_Teacher_1:LeftHandIndex1
+    100020: Black_Teacher_1:LeftHandIndex2
+    100022: Black_Teacher_1:LeftHandIndex3
+    100024: Black_Teacher_1:LeftHandIndex4
+    100026: Black_Teacher_1:LeftHandMiddle1
+    100028: Black_Teacher_1:LeftHandMiddle2
+    100030: Black_Teacher_1:LeftHandMiddle3
+    100032: Black_Teacher_1:LeftHandMiddle4
+    100034: Black_Teacher_1:LeftHandPinky1
+    100036: Black_Teacher_1:LeftHandPinky2
+    100038: Black_Teacher_1:LeftHandPinky3
+    100040: Black_Teacher_1:LeftHandPinky4
+    100042: Black_Teacher_1:LeftHandRing1
+    100044: Black_Teacher_1:LeftHandRing2
+    100046: Black_Teacher_1:LeftHandRing3
+    100048: Black_Teacher_1:LeftHandRing4
+    100050: Black_Teacher_1:LeftHandThumb1
+    100052: Black_Teacher_1:LeftHandThumb2
+    100054: Black_Teacher_1:LeftHandThumb3
+    100056: Black_Teacher_1:LeftHandThumb4
+    100058: Black_Teacher_1:LeftLeg
+    100060: Black_Teacher_1:LeftShoulder
+    100062: Black_Teacher_1:LeftToe_End
+    100064: Black_Teacher_1:LeftToeBase
+    100066: Black_Teacher_1:LeftUpLeg
+    100068: Black_Teacher_1:Neck
+    100070: Black_Teacher_1:RightArm
+    100072: Black_Teacher_1:RightFoot
+    100074: Black_Teacher_1:RightForeArm
+    100076: Black_Teacher_1:RightHand
+    100078: Black_Teacher_1:RightHandIndex1
+    100080: Black_Teacher_1:RightHandIndex2
+    100082: Black_Teacher_1:RightHandIndex3
+    100084: Black_Teacher_1:RightHandIndex4
+    100086: Black_Teacher_1:RightHandMiddle1
+    100088: Black_Teacher_1:RightHandMiddle2
+    100090: Black_Teacher_1:RightHandMiddle3
+    100092: Black_Teacher_1:RightHandMiddle4
+    100094: Black_Teacher_1:RightHandPinky1
+    100096: Black_Teacher_1:RightHandPinky2
+    100098: Black_Teacher_1:RightHandPinky3
+    100100: Black_Teacher_1:RightHandPinky4
+    100102: Black_Teacher_1:RightHandRing1
+    100104: Black_Teacher_1:RightHandRing2
+    100106: Black_Teacher_1:RightHandRing3
+    100108: Black_Teacher_1:RightHandRing4
+    100110: Black_Teacher_1:RightHandThumb1
+    100112: Black_Teacher_1:RightHandThumb2
+    100114: Black_Teacher_1:RightHandThumb3
+    100116: Black_Teacher_1:RightHandThumb4
+    100118: Black_Teacher_1:RightLeg
+    100120: Black_Teacher_1:RightShoulder
+    100122: Black_Teacher_1:RightToe_End
+    100124: Black_Teacher_1:RightToeBase
+    100126: Black_Teacher_1:RightUpLeg
+    100128: Black_Teacher_1:Spine
+    100130: Black_Teacher_1:Spine1
+    100132: Black_Teacher_1:Spine2
+    400000: //RootNode
+    400002: Black_Teacher_1:default2
+    400004: Black_Teacher_1:Head
+    400006: Black_Teacher_1:HeadTop_End
+    400008: Black_Teacher_1:Hips
+    400010: Black_Teacher_1:LeftArm
+    400012: Black_Teacher_1:LeftFoot
+    400014: Black_Teacher_1:LeftForeArm
+    400016: Black_Teacher_1:LeftHand
+    400018: Black_Teacher_1:LeftHandIndex1
+    400020: Black_Teacher_1:LeftHandIndex2
+    400022: Black_Teacher_1:LeftHandIndex3
+    400024: Black_Teacher_1:LeftHandIndex4
+    400026: Black_Teacher_1:LeftHandMiddle1
+    400028: Black_Teacher_1:LeftHandMiddle2
+    400030: Black_Teacher_1:LeftHandMiddle3
+    400032: Black_Teacher_1:LeftHandMiddle4
+    400034: Black_Teacher_1:LeftHandPinky1
+    400036: Black_Teacher_1:LeftHandPinky2
+    400038: Black_Teacher_1:LeftHandPinky3
+    400040: Black_Teacher_1:LeftHandPinky4
+    400042: Black_Teacher_1:LeftHandRing1
+    400044: Black_Teacher_1:LeftHandRing2
+    400046: Black_Teacher_1:LeftHandRing3
+    400048: Black_Teacher_1:LeftHandRing4
+    400050: Black_Teacher_1:LeftHandThumb1
+    400052: Black_Teacher_1:LeftHandThumb2
+    400054: Black_Teacher_1:LeftHandThumb3
+    400056: Black_Teacher_1:LeftHandThumb4
+    400058: Black_Teacher_1:LeftLeg
+    400060: Black_Teacher_1:LeftShoulder
+    400062: Black_Teacher_1:LeftToe_End
+    400064: Black_Teacher_1:LeftToeBase
+    400066: Black_Teacher_1:LeftUpLeg
+    400068: Black_Teacher_1:Neck
+    400070: Black_Teacher_1:RightArm
+    400072: Black_Teacher_1:RightFoot
+    400074: Black_Teacher_1:RightForeArm
+    400076: Black_Teacher_1:RightHand
+    400078: Black_Teacher_1:RightHandIndex1
+    400080: Black_Teacher_1:RightHandIndex2
+    400082: Black_Teacher_1:RightHandIndex3
+    400084: Black_Teacher_1:RightHandIndex4
+    400086: Black_Teacher_1:RightHandMiddle1
+    400088: Black_Teacher_1:RightHandMiddle2
+    400090: Black_Teacher_1:RightHandMiddle3
+    400092: Black_Teacher_1:RightHandMiddle4
+    400094: Black_Teacher_1:RightHandPinky1
+    400096: Black_Teacher_1:RightHandPinky2
+    400098: Black_Teacher_1:RightHandPinky3
+    400100: Black_Teacher_1:RightHandPinky4
+    400102: Black_Teacher_1:RightHandRing1
+    400104: Black_Teacher_1:RightHandRing2
+    400106: Black_Teacher_1:RightHandRing3
+    400108: Black_Teacher_1:RightHandRing4
+    400110: Black_Teacher_1:RightHandThumb1
+    400112: Black_Teacher_1:RightHandThumb2
+    400114: Black_Teacher_1:RightHandThumb3
+    400116: Black_Teacher_1:RightHandThumb4
+    400118: Black_Teacher_1:RightLeg
+    400120: Black_Teacher_1:RightShoulder
+    400122: Black_Teacher_1:RightToe_End
+    400124: Black_Teacher_1:RightToeBase
+    400126: Black_Teacher_1:RightUpLeg
+    400128: Black_Teacher_1:Spine
+    400130: Black_Teacher_1:Spine1
+    400132: Black_Teacher_1:Spine2
+    4300000: Black_Teacher_1:default2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Black_Teacher_1:default2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Black_Teacher_1:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Black_Teacher_1:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Black_Male_Teacher_1_Rig(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:default2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:Hips
+      position: {x: -0.000007841725, y: 1.0579572, z: 0.0019119948}
+      rotation: {x: 0.00000075834794, y: -0.0000022124364, z: 0.00007506922, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:Spine
+      position: {x: -0, y: 0.096901774, z: -0.010465867}
+      rotation: {x: -0.053768747, y: 0.0000062455174, z: -0.00007484168, w: 0.99855345}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:Spine1
+      position: {x: -0, y: 0.113709524, z: -6.5777783e-10}
+      rotation: {x: 6.938894e-18, y: -1.156321e-13, z: 6.735991e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:Spine2
+      position: {x: -0, y: 0.12995382, z: 2.6674812e-10}
+      rotation: {x: 6.938894e-18, y: -1e-45, z: -1.5303902e-28, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:Neck
+      position: {x: -0, y: 0.14619794, z: -0.000000002977452}
+      rotation: {x: 0.05376798, y: 3.0345833e-14, z: 2.2933714e-13, w: 0.99855345}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:Head
+      position: {x: -0, y: 0.067607574, z: 0.030770954}
+      rotation: {x: 0, y: 0, z: 1.4800567e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:HeadTop_End
+      position: {x: -0, y: 0.21669021, z: 0.098624505}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftShoulder
+      position: {x: -0.060091414, y: 0.123453766, z: -0.00015295064}
+      rotation: {x: 0.5777136, y: -0.40706226, z: 0.5785255, w: 0.40725368}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftArm
+      position: {x: 8.154659e-11, y: 0.12816204, z: -0.0000000034506404}
+      rotation: {x: -0.17095667, y: -0.013798093, z: 0.001996557, w: 0.9851799}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftForeArm
+      position: {x: -7.666892e-10, y: 0.19169094, z: -1.0503129e-10}
+      rotation: {x: 0.0000003003005, y: -0.0014844289, z: 0.000000205127, w: 0.9999989}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHand
+      position: {x: -9.1469343e-10, y: 0.30959502, z: -1.0153542e-10}
+      rotation: {x: -0.000020533618, y: -0.03341646, z: 0.04830333, w: 0.9982736}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandRing1
+      position: {x: -0.011298358, y: 0.10039262, z: -0.00329661}
+      rotation: {x: -0.0015423036, y: 0.001108571, z: -0.04914049, w: 0.9987901}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandRing2
+      position: {x: -0.000055916393, y: 0.03243285, z: -2.3615882e-11}
+      rotation: {x: 0.00000012268156, y: 0.000009363962, z: 0.0019257512, w: 0.99999815}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandRing3
+      position: {x: 0.00006415497, y: 0.030119346, z: -3.0366776e-10}
+      rotation: {x: -0.00000039741514, y: -0.000028359094, z: -0.0012134168, w: 0.9999993}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandRing4
+      position: {x: -0.000008238277, y: 0.02649641, z: 1.1765991e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandPinky1
+      position: {x: -0.031461, y: 0.09608951, z: 0.0008473327}
+      rotation: {x: -0.0015481679, y: 0.000982149, z: -0.048930448, w: 0.9988005}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandPinky2
+      position: {x: -0.000036832083, y: 0.02832957, z: -5.0251855e-11}
+      rotation: {x: 0.0000003453299, y: 0.00017002261, z: 0.003385208, w: 0.9999943}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandPinky3
+      position: {x: 0.00012681859, y: 0.02324052, z: 1.0248897e-10}
+      rotation: {x: 0.00000016698688, y: -0.00005817765, z: -0.005015284, w: 0.9999874}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandPinky4
+      position: {x: -0.000089986686, y: 0.019709677, z: -1.5313616e-12}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandThumb1
+      position: {x: 0.024804557, y: 0.030855019, z: 0.014132359}
+      rotation: {x: 0.07173615, y: -0.0058994717, z: -0.37504438, w: 0.92420816}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandThumb2
+      position: {x: 0.00127944, y: 0.03360444, z: -7.7688267e-10}
+      rotation: {x: 0.000011238166, y: 0.00059071666, z: -0.019433148, w: 0.999811}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandThumb3
+      position: {x: -0.000025996433, y: 0.031469904, z: 8.9248203e-10}
+      rotation: {x: -0.000053974567, y: 0.0022012065, z: -0.023830626, w: 0.9997136}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandThumb4
+      position: {x: -0.0012534439, y: 0.025819302, z: 3.0557317e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandMiddle1
+      position: {x: 0.009653648, y: 0.099636056, z: -0.00031850504}
+      rotation: {x: -0.0015890406, y: 0.0001242577, z: -0.050033778, w: 0.9987463}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandMiddle2
+      position: {x: -0.000121775854, y: 0.03467982, z: -2.557698e-11}
+      rotation: {x: -0.000000018726988, y: -0.00006217003, z: 0.0011131646, w: 0.9999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandMiddle3
+      position: {x: -0.000042882835, y: 0.033293854, z: 8.8316195e-11}
+      rotation: {x: 0.000000014600266, y: 0.00017538037, z: 0.0035039568, w: 0.99999386}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandMiddle4
+      position: {x: 0.00016465962, y: 0.028863749, z: 1.7280684e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandIndex1
+      position: {x: 0.033105712, y: 0.0985976, z: 0.00047429005}
+      rotation: {x: -0.0015595162, y: 0.0007387288, z: -0.048182722, w: 0.99883705}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandIndex2
+      position: {x: 0.000006207839, y: 0.031511415, z: -3.2208618e-11}
+      rotation: {x: -0.0000002485813, y: 0.000078812394, z: 0.0016677111, w: 0.9999986}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandIndex3
+      position: {x: 0.000100151236, y: 0.028362133, z: -1.28978e-10}
+      rotation: {x: 0.0000003573582, y: 0.000032504926, z: -0.003861651, w: 0.99999255}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftHandIndex4
+      position: {x: -0.000106359104, y: 0.025252905, z: -1.6249742e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightShoulder
+      position: {x: 0.060091414, y: 0.12394562, z: -0.0047069024}
+      rotation: {x: -0.55389565, y: -0.4245214, z: 0.5981762, w: -0.3939117}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightArm
+      position: {x: -7.0151895e-10, y: 0.12816204, z: -0.0000000033790828}
+      rotation: {x: -0.16638069, y: -0.0043741562, z: 0.039340816, w: 0.9852668}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightForeArm
+      position: {x: -3.3630574e-11, y: 0.19113469, z: 3.0275372e-11}
+      rotation: {x: -0.00000026614876, y: 0.00029524873, z: -0.00000044885772, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHand
+      position: {x: -2.708658e-10, y: 0.30753607, z: 1.5766943e-11}
+      rotation: {x: 0.0075449194, y: 0.06305675, z: -0.04454232, w: 0.9969869}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandRing1
+      position: {x: 0.01218461, y: 0.10430651, z: -0.0022474276}
+      rotation: {x: -0.010333015, y: -0.00016841468, z: 0.045540735, w: 0.99890906}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandRing2
+      position: {x: 0.000097910015, y: 0.03135765, z: 2.890232e-11}
+      rotation: {x: 0.0000002800778, y: 0.000017781143, z: -0.0028259156, w: 0.999996}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandRing3
+      position: {x: -0.00007271687, y: 0.028892986, z: 2.4610045e-10}
+      rotation: {x: -0.000000411029, y: 0.000028064216, z: 0.00076319376, w: 0.9999997}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandRing4
+      position: {x: -0.000025193152, y: 0.024994837, z: 1.3531547e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandThumb1
+      position: {x: -0.025897576, y: 0.033550803, z: 0.0153403925}
+      rotation: {x: 0.06262697, y: 0.00413072, z: 0.38045916, w: 0.9226655}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandThumb2
+      position: {x: -0.0006588268, y: 0.03605315, z: 9.2740915e-10}
+      rotation: {x: 0.0000044430944, y: 0.0004117461, z: 0.029647555, w: 0.99956036}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandThumb3
+      position: {x: 0.0013769264, y: 0.033543568, z: 6.010731e-10}
+      rotation: {x: -0.000003701137, y: -0.0006114348, z: -0.03430381, w: 0.9994113}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandThumb4
+      position: {x: -0.0007180995, y: 0.026013732, z: -5.1373206e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandMiddle1
+      position: {x: -0.011210348, y: 0.12706056, z: -0.0026360538}
+      rotation: {x: -0.010221896, y: -0.0027224359, z: 0.04424505, w: 0.9989647}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandMiddle2
+      position: {x: 0.000012917329, y: 0.027093433, z: 7.986614e-11}
+      rotation: {x: -0.00000017254592, y: 0.0000010134352, z: -0.00029881304, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandMiddle3
+      position: {x: -0.0000025740237, y: 0.025478661, z: 5.960658e-11}
+      rotation: {x: -0.00000033801638, y: -0.0000011026876, z: -0.00016808508, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandMiddle4
+      position: {x: -0.000010343277, y: 0.022026703, z: -2.0773114e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandPinky1
+      position: {x: 0.031417258, y: 0.10263463, z: 0.0001941793}
+      rotation: {x: -0.010152092, y: -0.004233406, z: 0.04340561, w: 0.998997}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandPinky2
+      position: {x: -0.00003128101, y: 0.025166905, z: 8.28939e-11}
+      rotation: {x: -0.00000014391459, y: 0.0000022507147, z: 0.0011372565, w: 0.99999934}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandPinky3
+      position: {x: 0.000021838545, y: 0.021094536, z: -1.2335193e-10}
+      rotation: {x: -0.0000004294359, y: 0.0000031474015, z: -0.00026886177, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandPinky4
+      position: {x: 0.000009442488, y: 0.017819185, z: -1.1261761e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandIndex1
+      position: {x: -0.032391522, y: 0.13086598, z: 0.00012310401}
+      rotation: {x: -0.010124942, y: -0.0048839194, z: 0.043755278, w: 0.9989791}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandIndex2
+      position: {x: -0.000011892147, y: 0.021999437, z: 6.22785e-11}
+      rotation: {x: -0.00000017634565, y: -0.00007796421, z: 0.0023020096, w: 0.9999974}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandIndex3
+      position: {x: 0.00008408491, y: 0.020697443, z: 1.9821414e-10}
+      rotation: {x: -0.000000091659665, y: -0.00002194936, z: -0.004294083, w: 0.9999908}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightHandIndex4
+      position: {x: -0.00007219278, y: 0.015895106, z: -5.3100135e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftUpLeg
+      position: {x: -0.09364523, y: -0.053834304, z: -0.0024855423}
+      rotation: {x: 0.000025818328, y: -0.0076974765, z: 0.99994475, w: 0.007165585}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftLeg
+      position: {x: -0, y: 0.46428454, z: 2.9100966e-12}
+      rotation: {x: -0.015215577, y: -0.0002935294, z: 0.014116942, w: 0.9997845}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftFoot
+      position: {x: 3.735265e-10, y: 0.46825585, z: 9.4189e-10}
+      rotation: {x: 0.5416293, y: 0.06626447, z: -0.03357945, w: 0.83732855}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftToeBase
+      position: {x: -8.38493e-10, y: 0.15907553, z: -0.0000000014630176}
+      rotation: {x: 0.2380732, y: -0.13540086, z: 0.033537302, w: 0.96117795}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:LeftToe_End
+      position: {x: -3.5571757e-11, y: 0.07508979, z: 2.4423662e-12}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightUpLeg
+      position: {x: 0.09364523, y: -0.053834304, z: -0.004378097}
+      rotation: {x: 0.000031079602, y: -0.0014876899, z: 0.9999743, w: -0.0070146704}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightLeg
+      position: {x: -0, y: 0.46428767, z: -1.2542642e-10}
+      rotation: {x: -0.025557928, y: 0.00034217568, z: -0.014113631, w: 0.99957365}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightFoot
+      position: {x: -0.0000000011005094, y: 0.46845722, z: 7.765958e-10}
+      rotation: {x: 0.5515371, y: -0.06312475, z: 0.03276673, w: 0.8311128}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightToeBase
+      position: {x: 0.0000000014110619, y: 0.16404651, z: 2.9542768e-10}
+      rotation: {x: 0.23044461, y: 0.13330029, z: -0.03188582, w: 0.9633845}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Black_Teacher_1:RightToe_End
+      position: {x: 9.795542e-12, y: 0.07560464, z: 2.7013457e-12}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
